@@ -1,0 +1,34 @@
+.cor{
+		background-color:#DB7093;
+}
+
+
+.texto{	
+	
+		display:inline-block;
+		width:1000px;
+		height:300px;
+		border:1px dashed #DB7093;
+		margin:0px 0px 0px 0px;
+		font-family:sans-serif;
+		color:#000066;
+		
+		
+		
+}
+	
+
+.titulo{
+		margin-left:420px;
+		font-size:150%;
+		color:#000066;
+}
+
+.imagem{
+		position:absolute;
+		display:inline-block;
+		border:1px dashed #DB7093;
+		margin:5px 0px 0px 15px;
+	
+}
+
