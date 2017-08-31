@@ -3,11 +3,12 @@
 }
 
 
+
 .texto{	
 	
 		display:inline-block;
 		width:1000px;
-		height:300px;
+		height:50px;
 		border:1px dashed #DB7093;
 		margin:0px 0px 0px 0px;
 		font-family:sans-serif;
@@ -19,7 +20,7 @@
 	
 
 .titulo{
-		margin-left:420px;
+		margin-left:460px;
 		font-size:150%;
 		color:#000066;
 }
@@ -31,4 +32,32 @@
 		margin:5px 0px 0px 15px;
 	
 }
+.two{
+	position:absolute;
+    top:613px;
+  
+	
+}
 
+.imagem1{
+		position:relative;
+		left:900px;
+		bottom:160px;
+		
+}
+.imagem2{
+		position:relative;
+		left:900px;
+		bottom:150px;
+}
+.imagem3{
+		position:relative;
+		left:900px;
+		bottom:50px;
+}
+
+.icone{
+		position:relative;
+		left:0px;
+		bottom:20px;
+}
